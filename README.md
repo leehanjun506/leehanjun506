@@ -2,6 +2,8 @@
 
 
 
+- 노션 포트폴리오 : <a href="https://sis03017.notion.site/f83a586029e242f393f3169ab87745bf?pvs=4">my portfolio</a>
+- 공부기록 블로그: <a href="https://sis03017.tistory.com/">my blog</a>
 
 <div align="center" style="font-size:30px;">
   :heart: <strong>Language</strong> :heart:
@@ -40,10 +42,6 @@
 <div align="center" style="font-size:30px;">
   :purple_heart: <strong>Collaborative Tool</strong> :purple_heart:
 </div>
-
-- 저에 대해 궁금하시다면, <a href="https://sis03017.notion.site/f83a586029e242f393f3169ab87745bf?pvs=4">My portfolio</a>를 방문해주세요.
-- 공부한것들은 <a href="https://sis03017.tistory.com/">제 블로그</a> 에 기록하고 있어요.
-
 
 <div align="center" style="font-size:30px;"><img alt="Python" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></div>
 <br>
