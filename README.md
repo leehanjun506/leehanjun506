@@ -6,7 +6,15 @@
 - 공부기록 블로그: <a href="https://sis03017.tistory.com/">my blog</a>
 
 <div align="center" style="font-size:30px;">
-  :heart: <strong>Language</strong> :heart:
+  :heart: <strong><a href="https://sis03017.notion.site/f83a586029e242f393f3169ab87745bf?pvs=4">my portfolio</a></strong> :heart:
+</div>
+
+<div align="center" style="font-size:30px;">
+  :white_heart: <strong><a href="https://sis03017.tistory.com/">my blog</a></strong> :heart:
+</div>
+
+<div align="center" style="font-size:30px;">
+  :black_heart: <strong>Language</strong> :heart:
 </div>
 
 <div align="center" style="font-size:30px;"><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></div>
